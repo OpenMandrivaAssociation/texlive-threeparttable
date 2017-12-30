@@ -5,8 +5,8 @@
 # catalog-license other-free
 # catalog-version undef
 Name:		texlive-threeparttable
-Version:	20100309
-Release:	10
+Version:	20170414
+Release:	1
 Summary:	Tables with captions and notes all the same width
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/threeparttable

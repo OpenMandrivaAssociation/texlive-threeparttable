@@ -5,7 +5,7 @@
 # catalog-license other-free
 # catalog-version undef
 Name:		texlive-threeparttable
-Version:	20170414
+Version:	20180303
 Release:	1
 Summary:	Tables with captions and notes all the same width
 Group:		Publishing

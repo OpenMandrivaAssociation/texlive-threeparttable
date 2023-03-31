@@ -1,6 +1,6 @@
 Name:		texlive-threeparttable
 Version:	17383
-Release:	1
+Release:	2
 Summary:	Tables with captions and notes all the same width
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/threeparttable

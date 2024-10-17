@@ -3,7 +3,7 @@ Version:	17383
 Release:	2
 Summary:	Tables with captions and notes all the same width
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/threeparttable
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/threeparttable
 License:	OTHER-FREE
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/threeparttable.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/threeparttable.doc.r%{version}.tar.xz
